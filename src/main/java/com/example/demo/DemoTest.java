@@ -5,5 +5,6 @@ public class DemoTest {
         System.out.println("this method in new class");
         System.out.println("line 6 added by B");
         System.out.println("line 6 added By A");
+        System.out.println("line 8 added By B");
     }
 }
